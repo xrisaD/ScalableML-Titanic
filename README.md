@@ -1,1 +1,1 @@
-# ScalableML-Titanic
+# Scalable Machine Learning - Titanic Dataset
