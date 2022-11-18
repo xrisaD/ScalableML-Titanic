@@ -1,5 +1,5 @@
 # Titanic Survival in Real Time
-A machine learning model was trained to predict titanic survival. It is deployed as a Serverless ML System using Hopsworks, Modal and HuggingFace.
+A machine learning model was trained to predict titanic survival and deployed as a Serverless ML System using Hopsworks, Modal and HuggingFace.
 
 The steps were the following:
 1. A feature pipeline was created to use only the useful features in our model, clean the dataset and save it into a Feature Group in Hopsworks.
