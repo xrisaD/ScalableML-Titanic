@@ -8,4 +8,4 @@ The steps were the following:
 4. 
 
 
-![image_system](./images/)
+![image_system](./images/system.png)
