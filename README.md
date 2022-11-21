@@ -1,4 +1,10 @@
 # Titanic Survival in Real Time
+
+Members: 
+* Olivia Höft 
+* Chrysoula Dikonimaki
+
+
 A machine learning model was trained to predict titanic survival and deployed as a Serverless ML System using Hopsworks, Modal and HuggingFace.
 
 The steps were the following:
