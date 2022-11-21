@@ -10,9 +10,15 @@ Real time predictions for the **Iris Flowers** and the **Titanic** dataset. The 
 
 The lab code was used for this task.
 
-Links of the UIs:
-* Application: https://huggingface.co/spaces/Hoft/Iris
-* Monitor: https://huggingface.co/spaces/Hoft/iris-monitoring
+The UIs:
+* Application: 
+
+<img src="./images/iris1.png" alt="drawing" width="700"/>
+Link: https://huggingface.co/spaces/Hoft/Iris
+
+* Monitor: 
+<img src="./images/iris2.png" alt="drawing" width="700"/>
+Link: https://huggingface.co/spaces/Hoft/iris-monitoring
 
 ## Task 2: Titanic 
 A machine learning model was trained to predict titanic survival.
@@ -29,6 +35,12 @@ The system architecture is the following:
 
 <img src="./images/system.png" alt="drawing" width="700"/>
 
-Links of the UIs:
-* Application: https://huggingface.co/spaces/Hoft/titanic
-* Monitor: https://huggingface.co/spaces/Hoft/titanic-monitoring
+The UIs:
+* Application: 
+
+<img src="./images/titanic1.png" alt="drawing" width="700"/>
+Link:https://huggingface.co/spaces/Hoft/titanic
+
+* Monitor: 
+<img src="./images/titanic2.png" alt="drawing" width="700"/>
+Link:https://huggingface.co/spaces/Hoft/titanic-monitoring
