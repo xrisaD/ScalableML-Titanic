@@ -1,5 +1,5 @@
 #  Serverless Machine Learning Systems 
-Real time predictions for the **Iris Flowers** and the **Titanic** dataset. The machine learning models were deployed as Serverless ML Systems using Hopsworks, Modal and HuggingFace.
+Real time predictions for the **Iris Flowers** and the **Titanic** dataset. The machine learning models were trained and deployed using Hopsworks, Modal and HuggingFace.
 
 
 ## Members 
@@ -30,5 +30,5 @@ The system architecture is the following:
 <img src="./images/system.png" alt="drawing" width="700"/>
 
 Links of the UIs:
-* Application: 
-* Monitor: 
+* Application: https://huggingface.co/spaces/Hoft/titanic
+* Monitor: https://huggingface.co/spaces/Hoft/titanic-monitoring
