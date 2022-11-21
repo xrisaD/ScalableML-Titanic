@@ -39,8 +39,8 @@ The UIs:
 * Application: 
 
 <img src="./images/titanic1.png" alt="drawing" width="700"/>
-Link:https://huggingface.co/spaces/Hoft/titanic
+Link: https://huggingface.co/spaces/Hoft/titanic
 
 * Monitor: 
 <img src="./images/titanic2.png" alt="drawing" width="700"/>
-Link:https://huggingface.co/spaces/Hoft/titanic-monitoring
+Link: https://huggingface.co/spaces/Hoft/titanic-monitoring
