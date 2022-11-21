@@ -21,7 +21,7 @@ The steps were the following:
 2. A training pipeline was created to train the model on the dataset with RandomForestClassifier using all the features selected in the previous step except the id. The dataset is split into train and test (test set to 20%). The accuracy score on the test set is 83.24%.
 3. An application UI was created with gradio UI and deployed on HuggingFace to enable Predictive Analytics so the user can use the model.
 4. A feature daily pipeline was created to generate a random passenger everyday and save it in the feature store.
-5. An inference pipeline
+5. An inference pipeline that gets a batch of data from the feature view, predicts the class labels for that batch and saves a confusion matrix with the results. 
 6. A monitor UI was created with gradio UI and deployed on HuggingFace to monitor the model and generate a confusion matrix based on the predictions.
 
 The system architecture is the following: 
