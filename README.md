@@ -1,10 +1,19 @@
-# Titanic Survival in Real Time
+#  Serverless ML Systems 
+Real time predictions for the **Iris Flowers** and the **Titanic** dataset.
 
-Members: 
+## Members 
 * Olivia Höft 
 * Chrysoula Dikonimaki
 
+## Task 1: Iris Flowers
 
+The lab code was used for this task and the machine learning model was deployed as a Serverless ML System using Hopsworks, Modal and HuggingFace.
+
+Links of the UIs:
+* Application: 
+* Monitor: 
+
+## Task 2: Titanic Survival 
 A machine learning model was trained to predict titanic survival and deployed as a Serverless ML System using Hopsworks, Modal and HuggingFace.
 
 The steps were the following:
@@ -19,6 +28,6 @@ The system architecture is the following:
 
 <img src="./images/system.png" alt="drawing" width="700"/>
 
-HuggingFace links:
+Links of the UIs:
 * Application: 
 * Monitor: 
