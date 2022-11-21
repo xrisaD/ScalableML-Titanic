@@ -1,5 +1,6 @@
-#  Serverless ML Systems 
-Real time predictions for the **Iris Flowers** and the **Titanic** dataset.
+#  Serverless Machine Learning Systems 
+Real time predictions for the **Iris Flowers** and the **Titanic** dataset. The machine learning models were deployed as Serverless ML Systems using Hopsworks, Modal and HuggingFace.
+
 
 ## Members 
 * Olivia Höft 
@@ -7,14 +8,14 @@ Real time predictions for the **Iris Flowers** and the **Titanic** dataset.
 
 ## Task 1: Iris Flowers
 
-The lab code was used for this task and the machine learning model was deployed as a Serverless ML System using Hopsworks, Modal and HuggingFace.
+The lab code was used for this task.
 
 Links of the UIs:
 * Application: https://huggingface.co/spaces/Hoft/Iris
 * Monitor: https://huggingface.co/spaces/Hoft/iris-monitoring
 
-## Task 2: Titanic Survival 
-A machine learning model was trained to predict titanic survival and deployed as a Serverless ML System using Hopsworks, Modal and HuggingFace.
+## Task 2: Titanic 
+A machine learning model was trained to predict titanic survival.
 
 The steps were the following:
 1. A feature pipeline was created to use only the useful features in our model, clean the dataset and save it into a feature group in Hopsworks.
