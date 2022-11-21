@@ -10,8 +10,8 @@ Real time predictions for the **Iris Flowers** and the **Titanic** dataset.
 The lab code was used for this task and the machine learning model was deployed as a Serverless ML System using Hopsworks, Modal and HuggingFace.
 
 Links of the UIs:
-* Application: 
-* Monitor: 
+* Application: https://huggingface.co/spaces/Hoft/Iris
+* Monitor: https://huggingface.co/spaces/Hoft/iris-monitoring
 
 ## Task 2: Titanic Survival 
 A machine learning model was trained to predict titanic survival and deployed as a Serverless ML System using Hopsworks, Modal and HuggingFace.
